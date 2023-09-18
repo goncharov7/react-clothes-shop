@@ -1,0 +1,38 @@
+[
+  {
+    "name": "КУРТКА ЧОЛОВІЧА COLUMBIA OAK HARBOR™",
+    "price": "3 999",
+    "detail": "Мембрана Omni-Tech™ і шви, що проклеєні в критичних місцях, не залишать волозі і шансу зіпсувати вашу вилазку на природу. А завдяки ламінованим блискавкам на кишенях речі теж будуть в безпеці.",
+    "image": "./ex3.jpg"
+  },
+  {
+    "name": "КУРТКА ЧОЛОВІЧА СOLUMBIA POWDER PASS™ HOODED JACKET",
+    "price": "4 999",
+    "detail": "Куртка чоловіча Сolumbia POWDER PASS ™ Hooded Jacket відмінний варіант з водостійкою тканиною і захисним капюшоном для раптового дощу.",
+    "image": "./ex4.jpg"
+  },
+  {
+    "name": "КУРТКА ЧОЛОВІЧА SILVER FALLS™ HOODED INSULATED JACKET",
+    "price": "5 999",
+    "detail": "Ця пухова куртка утеплена 100% переробленим поліестером і для зручності складається у власну кишеню.",
+    "image": "./ex5.jpg"
+  },
+  {
+    "name": "КУРТКА ЧОЛОВІЧА SILVER FALLS™ HOODED INSULATED JACKET PLUS SIZE",
+    "price": "6 999",
+    "detail": "Куртка чоловіча Columbia Silver Falls™ - легка куртка, яка здатна протистояти моросі або невеликому снігопаду.",
+    "image": "./ex6.jpg"
+  },
+  {
+    "name": "КУРТКА ЧОЛОВІЧА SILVER FALLS™ INSULATED JACKET",
+    "price": "7 999",
+    "detail": "Куртка чоловіча Columbia Silver Falls™ - легка куртка, яка здатна протистояти моросі або невеликому снігопаду.",
+    "image": "./ex7.jpg"
+  },
+  {
+    "name": "КУРТКА ЧОЛОВІЧА COLUMBIA EDDIE GORGE™ HOODED JACKET",
+    "price": "8 999",
+    "detail": "Технологія Omni-Heat™ Infinity відрізняється розширеним тепловідбивним малюнком, який утримує більше тепла тіла без шкоди для повітропроникності.",
+    "image": "./ex3.jpg"
+  }
+]
