@@ -1,6 +1,6 @@
 # CLothesShop - Online Clothing Store Landing Page
 
-!https://v2vavalon.pages.dev/
+https://v2vavalon.pages.dev/
 
 This project is a modern and stylish online clothing store landing page built using React.js.
 
