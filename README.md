@@ -19,5 +19,4 @@ This project is a modern and stylish online clothing store landing page built us
 - React.js
 - motion
 - Responsive design for mobile and desktop
-- [Optional] Add any additional technologies or libraries used in your project.
 
